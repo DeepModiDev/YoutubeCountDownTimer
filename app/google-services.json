@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649290752418",
+    "firebase_url": "https://countdowntimer-d7cea.firebaseio.com",
+    "project_id": "countdowntimer-d7cea",
+    "storage_bucket": "countdowntimer-d7cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649290752418:android:f99f61c89e55465e",
+        "android_client_info": {
+          "package_name": "com.deepmodi.youtubecountdowntimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649290752418-q8qilctst4dhhtji0e1nrf5u3rspf555.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepmodi.youtubecountdowntimer",
+            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+          }
+        },
+        {
+          "client_id": "649290752418-h7ckcdejfd4dpqe4b35o1nb5gbu15nva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHd-Rrxf_Qc-IBDyYpdg0bl-LHm7mJPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649290752418-h7ckcdejfd4dpqe4b35o1nb5gbu15nva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
